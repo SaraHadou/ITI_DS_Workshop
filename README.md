@@ -1,4 +1,4 @@
-project_name
+End-to-End Data Science Project
 ==============================
 
 Deena gergis workshop
